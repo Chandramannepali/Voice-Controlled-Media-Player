@@ -1,0 +1,8 @@
+speechrecognition
+pyaudio
+python-vlc
+pyttsx3
+flask
+nltk
+flask-cors
+pygame
